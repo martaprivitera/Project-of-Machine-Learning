@@ -14,3 +14,5 @@ For this project, we developed a pipeline using KNIME and divided the workflow i
 - DataApp_Team09.knwf: this file showcases the results through interactive graphical representations.
 
 Finally the file Report_Team09.pdf  contains the project report.
+
+## This project was created in collaboration with Ilaria Salvatori and Federico Ferretti, fellow students at the University of Milano-Bicocca.
